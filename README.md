@@ -2,6 +2,8 @@
 
 Daniweb.resto project is a daniweb front-end website with hotel and restaurant concept. Designed and created in Bootstrap, HTML, Javascript, CSS and Jquery. It is a frontend design perfect for restaurant-based companies with user-enhanced and user-interfaced feature capabilities.
 
+https://user-images.githubusercontent.com/109225953/205465093-980730ca-57ca-43bf-8165-44d4ea55adf3.mp4
+
 ---
 
 **Installation**
